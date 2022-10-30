@@ -98,5 +98,8 @@ h6{
 
 }
 #time{
-    text-align: left;
+    text-align: center;
+}
+html{
+    background-color: cornflowerblue;
 }
